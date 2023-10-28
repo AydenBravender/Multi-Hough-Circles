@@ -5,7 +5,7 @@
 </div>
 <center>
 
-| ![img1](https://github.com/AydenBravender/Multi-Hough-Circles/blob/main/image1.jpg?raw=true) | ![img2](https://github.com/AydenBravender/mediapipe_door_opener/blob/main/dooropening.gif?raw=true) |
+| ![img1](https://github.com/AydenBravender/Multi-Hough-Circles/blob/main/image1.jpg?raw=true) | ![img2](https://github.com/AydenBravender/Multi-Hough-Circles/blob/main/image2.jpg?raw=true) |
 |--------------------------|--------------------------|
 
 </center>
